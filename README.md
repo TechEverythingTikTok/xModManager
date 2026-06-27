@@ -25,10 +25,6 @@ https://xmodmanager.netlify.app/
 
 Insert the provided `.rbxm` into your experience, then follow the Getting Started guide in the documentation.
 
-## Repository
-
-https://github.com/TechEverythingTikTok/xModManager
-
 ## Contributing
 
 Contributions, bug reports, and feature requests are welcome.
