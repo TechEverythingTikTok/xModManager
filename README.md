@@ -25,9 +25,11 @@ https://xmodmanager.netlify.app/
 
 Insert the provided `.rbxm` into your experience, then follow the Getting Started guide in the documentation.
 
-## Contributing
+## Support the project
 
-Contributions, bug reports, and feature requests are welcome.
+If xModManager has been useful to you and you'd like to support its development, you can donate via PayPal:
+
+itsaxgammer@gmail.com
 
 ## License
 
